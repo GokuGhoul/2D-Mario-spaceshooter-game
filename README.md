@@ -7,3 +7,8 @@ OpenGL based 2D-Mario-spaceshooter-game
 </p>
 
 ## Output
+<p align="center">
+<img src="https://github.com/GokuGhoul/2D-Mario-spaceshooter-game/blob/main/Output/Screenshot%202021-07-11%20144719.png" width="500">
+<img src="https://github.com/GokuGhoul/2D-Mario-spaceshooter-game/blob/main/Output/Screenshot%202021-07-11%20144653.png" width="500">
+<img src="https://github.com/GokuGhoul/2D-Mario-spaceshooter-game/blob/main/Output/Screenshot%202021-07-11%20144450.png" width="500">
+</p>
