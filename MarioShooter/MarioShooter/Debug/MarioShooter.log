@@ -1,0 +1,17 @@
+﻿  MarioShooter.cpp
+s:\marioshooter\marioshooter\marioshooter.cpp(91): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(106): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(115): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(159): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(651): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(656): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(663): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(665): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(667): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(682): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(689): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(693): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(725): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(751): warning C4018: '<': signed/unsigned mismatch
+s:\marioshooter\marioshooter\marioshooter.cpp(869): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MarioShooter.vcxproj -> S:\MarioShooter\Debug\MarioShooter.exe
